@@ -67,9 +67,5 @@ for i in np.arange(8):
   plt.imshow(X_test[ind])
   plt.title(Cats[v_p[0]])
   ```
-  
-
-
-
-
+  ![prediction](https://user-images.githubusercontent.com/69978820/106392166-f940b380-63f0-11eb-926a-997c533be3f8.png)
 
